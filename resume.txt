@@ -1,0 +1,11 @@
+보유 자격증 : Goethe-Zertifikat C2, TOEFL iBT 110점, SNC - Sports Nutrition Coach,컴퓨터활용능력 1급, SQLD, SAA
+대외활동 : KUSF / KUTF 대학생 테니스 대회 출전 및 운영 참여/타 대학 및 지역 동아리 연합 교류전 주최	
+사용기술 : PYTHON, PYTORCH,TENSORFLOW,C#,MYSQL,DOCKER,AWS,GIT,GITHUB,VSCODE
+
+기본사항(경력,학력,이름,나이 등)
+
+경력 : X
+학력 : 대학교 3학년
+이름 : 윤성준
+나이 : 26
+외모 : 잘생김 ㅋㅋ 
